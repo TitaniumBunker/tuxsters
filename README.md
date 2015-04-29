@@ -1,4 +1,4 @@
- #Tuxsters - the Awards show in a Laptop
+#Tuxsters - the Awards show in a Laptop
 The Tuxsters project was dreamed up by [Dave Hingley] during [OggCamp].  He had an idea that someone could set up a website somewhere that would allow people to submit films, and then get the other members of the site to vote on aspects of those films, with a view winning awards.  Think of this as an Free Software 'Oscars' event that you can run from a laptop.
 
 And that involves everything.  Including the awards themselves.  

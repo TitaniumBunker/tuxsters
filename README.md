@@ -8,7 +8,7 @@ Since that initial thought, we've genericised somewhat.  Tuxsters as a platform 
 
 ### Todo's
 
- - ~~Decide the architecture~~ [^footnote].
+ - ~~Decide the architecture~~ <sup>[1](#footnote1)</sup>
  - [Mozilla Open Badges support]
  - Complete Code 
  - Add Awards show mode
@@ -17,5 +17,5 @@ Since that initial thought, we've genericised somewhat.  Tuxsters as a platform 
 [Dave Hingley]:http://www.titaniumbunker.com
 [Mozilla Open Badges support]:http://openbadges.org/
 
- 
-[^footnote]: The platform has been decided as **Laravel**.  Initial investigations started looking at **CodeIgnighter**, but advice from developers in the know recommended us to **Laravel**.
+
+<a name="footnote1">1</a>: The platform has been decided as **Laravel**.  Initial investigations started looking at **CodeIgnighter**, but advice from developers in the know recommended us to **Laravel**.
